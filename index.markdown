@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![testing-image-insert](/assets/images/IMG_3108.jpg){:class="img-responsive"}
+![testing-image-insert](/assets/images/IMG_3108.JPG){:class="img-responsive"}
