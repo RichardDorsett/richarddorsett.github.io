@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![testing-image-insert](/assets/images/IMG_.jpg){:class="img-responsive"}
