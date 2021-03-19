@@ -5,7 +5,7 @@ title: Welcome
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/IMG_3108.jpg
+  overlay_image: /assets/images/IMG_3108.JPG
 ---
 # News:
 - Research into the impact on crime of universal basic income published in the Journal of the Royal Statistical Society [[project page](the-effect-of-basic-income-on-crime)]

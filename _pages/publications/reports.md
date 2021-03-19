@@ -4,7 +4,7 @@ title: "Publications: Reports"
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/IMG_3478.jpg
+  overlay_image: /assets/images/IMG_3478.JPG
 permalink: /reports/
 ---
 * Stokes, L., Dorsett, R., Manzoni, C., Runge, J. and Xu, L. (2021) [Supervision of Designated Safeguarding Leads in Primary Schools in Bolton](https://whatworks-csc.org.uk/wp-content/uploads/WWCSC_DSL-Supervision-Evaluation_February_2021_A.pdf) What Works for Children's Social Care report [[project page](\supervision-of-DSL-in-primary-schools\)]

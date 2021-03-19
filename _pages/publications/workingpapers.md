@@ -4,7 +4,7 @@ title: "Publications: Working papers"
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/IMG_3478.jpg
+  overlay_image: /assets/images/IMG_3478.JPG
 permalink: /workingpapers/
 ---
 * Dorsett, R., and Stokes, L. (2019) [Pre-apprenticeship training for young people: estimating the marginal and average treatment effects](https://www.westminster.ac.uk/sites/default/public-files/general-documents/WPS 2019_03_Dorsett R.pdf) University of Westminster working paper 2019/003 [[project page](\evaluation-of-traineeships\)]

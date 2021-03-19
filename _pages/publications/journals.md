@@ -4,7 +4,7 @@ title: "Publications: Journal articles"
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/IMG_3478.jpg
+  overlay_image: /assets/images/IMG_3478.JPG
 permalink: /journals/
 ---
 * Dorsett, R., and Stokes, L. (forthcoming) Pre-apprenticeship training for young people: estimating the marginal and average treatment effects.  Journal of the Royal Statistical Society, Series A.   [[project page](\evaluation-of-traineeships\)]
