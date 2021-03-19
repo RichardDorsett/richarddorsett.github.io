@@ -4,7 +4,7 @@ title: Publications
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/IMG_3478.jpg
+  overlay_image: /assets/images/IMG_3478.JPG
 permalink: /publications/
 ---
 

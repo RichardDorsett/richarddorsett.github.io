@@ -4,7 +4,7 @@ title: About
 author_profile: true
 header:  
   overlay_color: "#000"
-  overlay_image: /assets/images/IMG_2712.jpg
+  overlay_image: /assets/images/IMG_2712.JPG
 permalink: /about/
 ---
 
