@@ -10,8 +10,8 @@ main:
    url: /publications/
  - title: "About"
    url: /about/
- - title: "Personal"
-   url: /personal/
+ #- title: "Personal"
+ #  url: /personal/
 
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
