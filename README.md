@@ -12,7 +12,11 @@ There are some pages that are not updated by this process and need to be edited 
 * research-areas
 * methods
 * publications
-* about
+* about.
+
+Also, all the pages within the following folders 
+* _pages/methods
+* _pages/research-areas.
 
 # VS Code
 I use VS code for editing CSV files (can also use Excel) and running the Julia code.  I can also run a Ruby session to build a local copy of the website (useful as a check if making a more substantial change).  To do this, simply open one of the Markdown files and enter `ctrl+'`.  After that, issue the command `gem install jekyll bundler` and then `bundle exec jekyll serve` (in fact, `bundle exec jekyll serve --incremental` runs faster when building a local site, although will not cope with changes to the yml file).

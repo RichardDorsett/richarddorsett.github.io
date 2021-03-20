@@ -8,7 +8,7 @@ header:
 permalink: /publications/
 ---
 
-Publications are organised by type - follow the links below:
+PPublications are organised by type - follow the links below:
 
 * [Journal articles](/journals/)
 * [Working papers](/workingpapers/)
