@@ -8,7 +8,7 @@ header:
 permalink: /research-areas/
 ---
 
-My research mostly involves quantitative analysis of the labour market.  These have been grouped under four broad headings below:
+My research mostly involves quantitative analysis of the labour market.  Projects have been grouped under four broad headings below:
 
 * [Employment and welfare](/employment-and-welfare/)
 * [Education and training](/education-and-training/)
