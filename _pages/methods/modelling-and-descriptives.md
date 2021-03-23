@@ -10,9 +10,9 @@ permalink: /modelling-and-descriptives/
 
 <ul>
   {% for post in site.tags.modelling-and-descriptives %}
-    {% if post.url %}
-       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
+       <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
+       <font color="gray"><em>{{ post.excerpt }}<br></em>
+       <br>
   {% endfor %}
 </ul>
 

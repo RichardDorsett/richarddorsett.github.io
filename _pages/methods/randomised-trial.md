@@ -10,9 +10,9 @@ permalink: /randomised-trial/
 
 <ul>
   {% for post in site.tags.randomised-trial %}
-    {% if post.url %}
-       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
+       <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
+       <font color="gray"><em>{{ post.excerpt }}<br></em>
+       <br>
   {% endfor %}
 </ul>
 

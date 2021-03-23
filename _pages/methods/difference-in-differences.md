@@ -10,9 +10,9 @@ permalink: /difference-in-differences/
 
 <ul>
   {% for post in site.tags.difference-in-differences %}
-    {% if post.url %}
-       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
+       <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
+       <font color="gray"><em>{{ post.excerpt }}<br></em>
+       <br>
   {% endfor %}
 </ul>
 
