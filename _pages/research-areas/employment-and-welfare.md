@@ -4,7 +4,7 @@ title: "Research areas: Employment and welfare"
 author_profile: true
 header:  
   overlay_color: "#000"
-  overlay_image: /assets/images/IMG_3101.jpg
+  overlay_image: /assets/images/IMG_3101.JPG
 permalink: /employment-and-welfare/
 ---
 
