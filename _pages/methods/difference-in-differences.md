@@ -8,11 +8,11 @@ header:
 permalink: /difference-in-differences/
 ---
 
-<ul>
+<dl>
   {% for post in site.tags.difference-in-differences %}
        <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
        <font color="gray"><em>{{ post.excerpt }}<br></em>
        <br>
   {% endfor %}
-</ul>
+
 

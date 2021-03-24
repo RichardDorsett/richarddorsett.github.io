@@ -17,3 +17,4 @@ permalink : /crime-and-conflict/
        <font color="gray"><em>{{ post.excerpt }}<br></em>
        <br>
   {% endfor %}
+

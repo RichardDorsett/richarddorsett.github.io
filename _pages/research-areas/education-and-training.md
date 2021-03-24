@@ -16,4 +16,5 @@ permalink: /education-and-training/
        <font color="gray"><em>{{ post.excerpt }}<br></em>
        <br>
   {% endfor %}
- 
+
+

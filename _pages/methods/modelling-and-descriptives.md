@@ -8,11 +8,11 @@ header:
 permalink: /modelling-and-descriptives/
 ---
 
-<ul>
+<dl>
   {% for post in site.tags.modelling-and-descriptives %}
        <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
        <font color="gray"><em>{{ post.excerpt }}<br></em>
        <br>
   {% endfor %}
-</ul>
+
 

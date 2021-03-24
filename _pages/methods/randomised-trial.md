@@ -8,11 +8,11 @@ header:
 permalink: /randomised-trial/
 ---
 
-<ul>
+<dl>
   {% for post in site.tags.randomised-trial %}
        <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
        <font color="gray"><em>{{ post.excerpt }}<br></em>
        <br>
   {% endfor %}
-</ul>
+
 

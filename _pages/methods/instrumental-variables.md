@@ -8,11 +8,11 @@ header:
 permalink: /instrumental-variables/
 ---
 
-<ul>
+<dl>
   {% for post in site.tags.instrumental-variables %}
        <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
        <font color="gray"><em>{{ post.excerpt }}<br></em>
        <br>
   {% endfor %}
-</ul>
+
 
