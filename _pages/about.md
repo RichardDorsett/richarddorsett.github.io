@@ -12,4 +12,4 @@ I am Professor of Economic Evaluation at the University of Westminster.  I condu
 
 From 2008 until 2016, I was Principal Research Fellow and Director of Policy Evaluation at the National Institute of Economic and Social Research. Before that, from 2000, I was Research Director at the Policy Studies Institute, also in London.  
 
-See [here](/assets/docs/CV.pdf) for a CV.
+My CV is available [here](/assets/docs/CV.pdf).
