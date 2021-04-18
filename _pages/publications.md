@@ -13,3 +13,4 @@ Publications are organised into the following types:
 * [Journal articles](/journals/)
 * [Working papers](/workingpapers/)
 * [Reports](/reports/)
+* [Other](/pubsother/)

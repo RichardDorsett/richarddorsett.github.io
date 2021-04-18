@@ -1,5 +1,5 @@
 ---
-id: 51
+id: 52
 title: COVID-19 and the creative workforce
 excerpt: Estimating the effect of COVID-19 on the creative workforce
 layout: posts
