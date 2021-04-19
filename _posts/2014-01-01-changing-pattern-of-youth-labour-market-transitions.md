@@ -20,7 +20,7 @@ This paper examines how young people's early transitions into the labour market 
 ## Outputs
 Anders, J. and Dorsett, R. (2017) [What young English people do once they reach school-leaving age: A cross-cohort comparison for the last 30 years](https://www.llcsjournal.org/index.php/llcs/article/view/399).  Longitudinal and Life Course Studies 8 (1): 75-103.
 
-Anders, J. and Dorsett, R. (2015) [How have young people's routes from school to work changed over the past 30 years?](http://www.niesr.ac.uk/blog/how-have-young-people%E2%80%99s-routes-school-work-changed-over-past-30-years#.V6BdpTVcQgQ)
+Anders, J. and Dorsett, R. (2015) [How have young people's routes from school to work changed over the past 30 years?](http://www.niesr.ac.uk/blog/how-have-young-people%E2%80%99s-routes-school-work-changed-over-past-30-years#.V6BdpTVcQgQ), NIESR blog
 
 Speckesser, S., Anders, J., De Coulon, A., Dorsett, R., Espinoza Bustos, H., Kirchner Sala, L. and Nafilyan, V. (2015) [Empirical research on Youth Transitions to, and within the labour market](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/471319/BIS-15-612-empirical-research-on-youth-transitions_to-and-within-the-labour-market.pdf) BIS Research Paper 255
 
