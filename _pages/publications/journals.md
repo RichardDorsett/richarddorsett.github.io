@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/IMG_3478.jpg
 permalink: /journals/
 ---
-* Dorsett, R., and Stokes, L. (forthcoming) Pre-apprenticeship training for young people: estimating the marginal and average treatment effects.  Journal of the Royal Statistical Society, Series A.   [[project page](\evaluation-of-traineeships\)]
+* Dorsett, R., and Stokes, L. (2021) [Pre-apprenticeship training for young people: estimating the marginal and average treatment effects](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12697).  Journal of the Royal Statistical Society, Series A.   [[project page](\evaluation-of-traineeships\)]
 * Dorsett, R. (2021) [A Bayesian structural time series analysis of the effect of basic income on crime: evidence from the Alaska Permanent Fund](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssa.12619) Journal of the Royal Statistical Society, Series A 184(1): 179-200 [[project page](\the-effect-of-basic-income-on-crime\)]
 * Dorsett, R., Rienzo, C. and Weale, M. (2019) [Intergenerational and inter-ethnic well-being: an analysis for the UK](https://onlinelibrary.wiley.com/doi/pdf/10.1002/psp.2195) Population, Space and Place, 25(2) [[project page](\intergenerational-dynamics-in-learning\)]
 * Dorsett, R. and Lucchino, P. (2018) [Young people's labour market transitions: the role of early experiences](https://doi.org/10.1016/j.labeco.2018.06.002) Labour Economics 54: 29-46 [[project page](\the-school-to-work-transition\)]
