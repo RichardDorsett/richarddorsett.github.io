@@ -1,7 +1,7 @@
 ---
 id: 46
-title: Supervision of Designated Safeguarding Leads in primary schools 
-excerpt: Randomised trial of providing social workers to supervise Designated Safeguarding Leads in secondary schools
+title: Supervision of Designated Safeguarding Leads in schools 
+excerpt: Randomised trials of the impact of providing social workers to supervise Designated Safeguarding Leads in schools
 layout: posts
 tags: [health-and-well-being,education-and-training,randomised-trial]
 permalink: /supervision-of-DSL-in-primary-schools/
@@ -16,7 +16,7 @@ permalink: /supervision-of-DSL-in-primary-schools/
     ]
   </p>
 </div>
-This trial aims to establish whether providing a social worker to supervise Designated Safeguarding Leads (DSLs) in secondary schools affects the quality of referrals to social services . The evaluation comprises a randomised control trial, along with an implementation and process evaluation and analysis of costs.
+This programme of randomised trials aims to establish whether providing a social worker to supervise Designated Safeguarding Leads (DSLs) in schools affects the quality of referrals to social services . The first trial (completed) focused on primary schools in Bolton (see [protocol](https://osf.io/gw56u/)).  Subsequent (ongoing) trials extend this to secondary schools in Greater Manchester ([protocol](https://whatworks-csc.org.uk/research-project/supervision-for-designated-safeguarding-leads-scale-up/)) and to primary schools in 10 local authorities across England.
 ## Outputs
 Stokes, L., Manzoni, C., Runge, J., Xu, L. and Dorsett, R. (2019) [Safeguarding the safeguards -- A case for more support in schools](https://www.niesr.ac.uk/blog/safeguarding-safeguards-%E2%80%93-case-more-support-schools), NIESR blog
 
