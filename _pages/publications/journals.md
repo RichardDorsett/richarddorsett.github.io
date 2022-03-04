@@ -7,6 +7,7 @@ header:
   overlay_image: /assets/images/IMG_3478.jpg
 permalink: /journals/
 ---
+* Anders, J., Foliano, F.,  Bursnall, M., Dorsett, R., Hudson, N., Runge, J. and Speckesser, S. (2022) [The Effect of Embedding Formative Assessment on Pupil Attainment](https://doi.org/10.1080/19345747.2021.2018746). Journal of Research on Educational Effectiveness. [[project page](\EFA-randomised-control-trial\)]
 * Dorsett, R., and Stokes, L. (2021) [Pre-apprenticeship training for young people: estimating the marginal and average treatment effects](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12697).  Journal of the Royal Statistical Society, Series A.   [[project page](\evaluation-of-traineeships\)]
 * Dorsett, R. (2021) [A Bayesian structural time series analysis of the effect of basic income on crime: evidence from the Alaska Permanent Fund](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssa.12619) Journal of the Royal Statistical Society, Series A 184(1): 179-200 [[project page](\the-effect-of-basic-income-on-crime\)]
 * Dorsett, R., Rienzo, C. and Weale, M. (2019) [Intergenerational and inter-ethnic well-being: an analysis for the UK](https://onlinelibrary.wiley.com/doi/pdf/10.1002/psp.2195) Population, Space and Place, 25(2) [[project page](\intergenerational-dynamics-in-learning\)]
