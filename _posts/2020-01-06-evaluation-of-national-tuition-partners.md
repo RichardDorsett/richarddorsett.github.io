@@ -1,7 +1,7 @@
 ---
 id: 50
-title: Evaluation of National Tuition Partners
-excerpt: Evaluating the impact of Tuition Partners on pupil attainment
+title: Evaluation of National Tutoring Programme
+excerpt: Evaluating the impact of Tuition Partners and Academic Mentors on pupil attainment
 layout: posts
 tags: [education-and-training,matching,instrumental-variables]
 permalink: /evaluation-of-national-tuition-partners/
@@ -16,7 +16,7 @@ permalink: /evaluation-of-national-tuition-partners/
     ]
   </p>
 </div>
-Tuition Partners is a national programme of subsidised tuition targeted at disadvantaged pupils needing catch-up support, to be delivered over the 2020/21 academic year.  It is part of the government's COVID catch-up plan to tackle the impact of school closures and lost teaching time in English schools.  This project estimates the impact of Tuition Partners on attainment.
+The National Tuition Programme, delivered over the 2020/21 academic year, comprises two elements - Tuition Partners and Academic Mentoring.  It is targeted at disadvantaged pupils needing catch-up support and forms part of the government's COVID catch-up plan to tackle the impact of school closures and lost teaching time in English schools. This project estimates the impact of the two NTP strands on attainment.
 ## Outputs
 ## Funder
 Education Endowment Foundation

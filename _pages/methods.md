@@ -16,4 +16,5 @@ Studies use a range of experimental (randomised trial) and non-experimental tech
 * [Instrumental variables](/instrumental-variables/)
 * [Duration analysis](/duration-analysis/)
 * [Synthetic control](/synthetic-control/)
+* [Regression discontinuity](/regression-discontinuity/)
 * [Modelling and descriptives](/modelling-and-descriptives/)
