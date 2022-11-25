@@ -18,7 +18,7 @@ permalink: /evaluation-of-traineeships/
 </div>
 Traineeships offer young people a work placement and work preparation training, plus the opportunity to improve their English and Maths skills. They are aimed at young people who are not working and have little work experience, but are expected to have a reasonable chance of being ready for employment or an apprenticeship within six months of starting the Traineeship. The evaluation seeks to establish whether Traineeships are effective in helping young people to progress into sustained employment, an apprenticeship, or further learning.  It applies matching and instrumental variables techniques to large administrative datasets.
 ## Outputs
-Dorsett, R., and Stokes, L. (2021) [Pre-apprenticeship training for young people: estimating the marginal and average treatment effects](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12697).  Journal of the Royal Statistical Society, Series A.  
+Dorsett, R., and Stokes, L. (2021) [Pre-apprenticeship training for young people: estimating the marginal and average treatment effects](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12697) Journal of the Royal Statistical Society, Series A.  
 
 Dorsett, R., Gray, H., Speckesser, S. and Stokes, L. (2019) [Estimating the impact of Traineeships](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/847346/Traineeships_Impact_Evaluation.pdf) Department for Education Research Report 919
 

@@ -18,5 +18,7 @@ permalink: /local-labour-markets-during-the-pandemic/
 </div>
 This project compares trends over time in self-employment against trends over time in paid employment.  It examines the extent to which this relationship has been disrupted by the outbreak of COVID19.  This is explored in more detail by applying an econometric choice model to individual-level LFS data in order to capture the influences of labour market status.  Including time dummies identifying the post-COVID period allows the relative effect of the virus to be seen. 
 ## Outputs
+Dorsett, R. and Hug, J. (2022) [Local variations in the labour market impact of COVID-19](https://escoe-website.s3.amazonaws.com/wp-content/uploads/2022/07/07112323/ESCoE-DP-2022-18.pdf) Economic Statistics Centre of Excellence DP 2022-18
+
 ## Funder
 Office for National Statistics
