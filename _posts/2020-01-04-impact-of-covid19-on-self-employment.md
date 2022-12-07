@@ -1,7 +1,7 @@
 ---
 id: 48
 title: The impact of COVID19 on self-employment relative to paid employment
-excerpt: Examining local variations in the employment impacts of COVID-19.
+excerpt: Estimating the effect of COVID-19 on self-employment relative to employee employment.
 layout: posts
 tags: [employment-and-welfare,modelling-and-descriptives]
 permalink: /impact-of-covid19-on-self-employment/

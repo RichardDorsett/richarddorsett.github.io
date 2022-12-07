@@ -1,7 +1,7 @@
 ---
 id: 49
 title: Local labour markets during the pandemic
-excerpt: Estimating the effect of COVID-19 on self-employment relative to employee employment.
+excerpt: Examining local variations in the employment impacts of COVID-19.
 layout: posts
 tags: [employment-and-welfare,modelling-and-descriptives]
 permalink: /local-labour-markets-during-the-pandemic/
