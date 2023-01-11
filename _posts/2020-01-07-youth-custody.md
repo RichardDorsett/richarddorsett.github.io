@@ -18,6 +18,8 @@ permalink: /education-youth-custody-and-employment/
 </div>
 This project will provide quantitative evidence on which young people are imprisoned, the school experiences that increase the risk of imprisonment and the impact prison has on subsequent labour market outcomes.  The research will use the Longitudinal Educational Outcomes (LEO) dataset, which links education and tax records to observe nearly all young people in England from school to early adulthood. It provides information on background characteristics (e.g. gender, ethnic group, location, disadvantaged status), school experience (e.g. attainment, absences and exclusions, PRU/AP referral, special educational needs) and detailed month-by-month activity status post-16, including months where an individual is in custody. The size of the LEO dataset makes it possible to observe subgroups within the population that are too small to consider using survey data.
 ## Outputs
+Dorsett, R., Bowyer, A., Gorman, E., Morando, G., Oppedisano, V., Zhang, M., Thomson, D., Cathro, C., Tagliaferri, G., Sutherland, A., Dickson, M., Machin, S., McNally, S. and Ruiz-Valenzuela, J. (2023) [Youth custody: Educational influences and labour market consequences](/assets/docs/MPO.pdf) 
+
 Dorsett, R. and Thomson, D. (2022) [The impact of incarceration on the early labour market outcomes of children in care](/assets/docs/DT.pdf)
 
 Dorsett, R., Gorman, E, Morando, G. Oppedisano, V. and Zhang, M. (2022) [School peers' ability and youth custody](/assets/docs/DGMOZ.pdf)
