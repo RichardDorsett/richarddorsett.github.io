@@ -20,7 +20,7 @@ This project will provide quantitative evidence on which young people are impris
 ## Outputs
 Dorsett, R. and Thomson, D. (2022) [The impact of incarceration on the early labour market outcomes of children in care](/assets/docs/DT.pdf)
 
-Dorsett, R., Gorman, E, Morando, G. Oppedisano, V. and Zhang, M (2022) [School peers' ability and youth custody](/assets/docs/DGMOZ.pdf)
+Dorsett, R., Gorman, E, Morando, G. Oppedisano, V. and Zhang, M. (2022) [School peers' ability and youth custody](/assets/docs/DGMOZ.pdf)
 
 Bowyer, A., Dorsett, R. and Thomson, D. (2022) [The school to work transition for young people who experience custody](/assets/docs/BDT.pdf)
 

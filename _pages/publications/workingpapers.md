@@ -7,6 +7,9 @@ header:
   overlay_image: /assets/images/IMG_3478.jpg
 permalink: /workingpapers/
 ---
+* Dorsett, R. and Thomson, D. (2022) [The impact of incarceration on the early labour market outcomes of children in care](/assets/docs/DT.pdf) [[project page](\education-youth-custody-and-employment\)]
+* Dorsett, R., Gorman, E, Morando, G. Oppedisano, V. and Zhang, M. (2022) [School peers' ability and youth custody](/assets/docs/DGMOZ.pdf) [[project page](\education-youth-custody-and-employment\)]
+* Bowyer, A., Dorsett, R. and Thomson, D. (2022) [The school to work transition for young people who experience custody](/assets/docs/BDT.pdf) [[project page](\education-youth-custody-and-employment\)]
 * Dorsett, R. and Hug, J. (2022) [Local variations in the labour market impact of COVID-19](https://escoe-website.s3.amazonaws.com/wp-content/uploads/2022/07/07112323/ESCoE-DP-2022-18.pdf) Economic Statistics Centre of Excellence DP 2022-18 [[project page](\local-labour-markets-during-the-pandemic\)]
 * Bowyer, A. and Dorsett, R. (2022) [What has been the Impact of COVID-19 on Self-employment Relative to Paid Employment in the UK?](https://escoe-website.s3.amazonaws.com/wp-content/uploads/2022/07/29085644/ESCoE-DP-2022-19.pdf) Economic Statistics Centre of Excellence DP 2022-19 [[project page](\impact-of-covid19-on-self-employment\)]
 * Dorsett, R. and Hug, J. (2022) [Using UK Tax Records to Produce New Statistics on Labour Market Transitions](https://escoe-website.s3.amazonaws.com/wp-content/uploads/2022/04/20164453/DP-2022-10.pdf) Economic Statistics Centre of Excellence DP 2022-10 [[project page](\administrative-data-for-labour-market-statistics\)]
