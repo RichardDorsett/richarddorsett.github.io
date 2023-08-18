@@ -20,7 +20,7 @@ This project will provide quantitative evidence on which young people are impris
 ## Outputs
 Dorsett, R. and Thomson, D. (2023) [How Incarcerating Children Affects their Labour Market Outcomes](https://doi.org/10.1017/S0047279423000235) Journal of Social Policy, 1-22
 
-Bowyer, A., Dorsett, R. and Thomson, D. (2023)[The school-to-work transition for young people who experience custody](https://bristoluniversitypressdigital.com/view/journals/llcs/aop/article-10.1332-175795921X16726787156855/article-10.1332-175795921X16726787156855.xml) Longitudinal and Life Course Studies, pp.1-19.
+Bowyer, A., Dorsett, R. and Thomson, D. (2023) [The school-to-work transition for young people who experience custody](https://doi.org/10.1332/175795921X16726787156855) Longitudinal and Life Course Studies, 14(3), 339-357.
 
 Dorsett, R., Bowyer, A., Gorman, E., Morando, G., Oppedisano, V., Zhang, M., Thomson, D., Cathro, C., Tagliaferri, G., Sutherland, A., Dickson, M., Machin, S., McNally, S. and Ruiz-Valenzuela, J. (2023) [Youth custody: Educational influences and labour market consequences](/assets/docs/MPO.pdf) 
 
