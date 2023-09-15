@@ -23,4 +23,4 @@ I use VS code for editing CSV files (can also use Excel) and running the Julia c
 
 I can edit any of the fixed files in the bullet points above in VS Code.  This can be done with a preview using `ctrl+k v`.
 
-Once all the changes have been made, I can commit and then push to Github.  This is all done within VS Code - I click on the Github icon on the left (or `ctrl+shift+g'), click on the "+" that appears against each change shown in the tree (doing this for the folder will select all) in order to stage the changes, write a commit message, click on the tick to commit the changes, click on the three dots to get more options and select "Push".  That should be it.
+Once all the changes have been made, I can commit and then push to Github.  This is all done within VS Code - I click on the Github icon on the left (or `ctrl+shift+g`), click on the "+" that appears against each change shown in the tree (doing this for the folder will select all) in order to stage the changes, write a commit message, click on the tick to commit the changes, click on the three dots to get more options and select "Push".  That should be it.
