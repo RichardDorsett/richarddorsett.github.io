@@ -1,6 +1,6 @@
 # richarddorsett.github.io
 
-These are notes for my own use
+These are notes for my own use.
 
 # Create content
 I keep two CSV files - projects and publications.  These can be updated as required.  Each project has a unique identifier.  This project identifier appears in both the projects and publications files, allowing outputs to be linked to projects.
