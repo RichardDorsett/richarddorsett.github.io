@@ -54,3 +54,4 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 #  gem "jekyll-include-cache"
 #  #gem "jekyll-algolia"
 #end
+gem "webrick", "~> 1.8"

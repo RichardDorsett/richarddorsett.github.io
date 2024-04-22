@@ -7,6 +7,7 @@ header:
   overlay_image: /assets/images/IMG_3478.jpg
 permalink: /journals/
 ---
+* Taylor, S., Blackshaw, E., Dorsett, R., Lawrence, H., Stern, D., Gilbert, L. and Raghoo, N. (2024) [Impact of Family Group Conference Referrals at Pre-Proceedings Stage on Child Outcomes: A Randomised Controlled Trial](https://doi.org/10.1093/bjsw/bcae035) The British Journal of Social Work [[project page](\family-group-conferencing-at-pre-proceedings-stage\)]
 * Bowyer, A., Dorsett, R. and Thomson, D. (2023) [The school-to-work transition for young people who experience custody](https://doi.org/10.1332/175795921X16726787156855) Longitudinal and Life Course Studies, 14(3), 339-357. [[project page](\education-youth-custody-and-employment\)]
 * Dorsett, R. and Thomson, D. (2023) [How Incarcerating Children Affects their Labour Market Outcomes](https://doi.org/10.1017/S0047279423000235) Journal of Social Policy, 1-22 [[project page](\education-youth-custody-and-employment\)]
 * Dorsett, R., and Stokes, L. (2022) [Pre-apprenticeship training for young people: estimating the marginal and average treatment effects](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12697) Journal of the Royal Statistical Society, Series A 185(1): 37-60 [[project page](\evaluation-of-traineeships\)]
