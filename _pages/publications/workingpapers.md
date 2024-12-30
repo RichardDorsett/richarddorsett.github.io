@@ -7,6 +7,7 @@ header:
   overlay_image: /assets/images/IMG_3478.jpg
 permalink: /workingpapers/
 ---
+* Bakhshi, H. and Dorsett, R. (2023) [Job Mobility in and Around the Creative Economy](https://escoe-website.s3.amazonaws.com/wp-content/uploads/2023/10/18094956/ESCoE-DP-2023-18.pdf) Economic Statistics Centre of Excellence DP 2023-18 [[project page](\impact-of-covid19-on-self-employment\)]
 * Dorsett, R., Cockett, J. Gould, M. Gray, H. (2023) Can Individual Placement and Support work at scale? [[project page](\evaluation-of-IPS\)]
 * Dorsett, R. and Thomson, D. (2022) [The impact of incarceration on the early labour market outcomes of children in care](/assets/docs/DT.pdf) [[project page](\education-youth-custody-and-employment\)]
 * Dorsett, R., Gorman, E, Morando, G. Oppedisano, V. and Zhang, M. (2022) [School peers' ability and youth custody](/assets/docs/DGMOZ.pdf) [[project page](\education-youth-custody-and-employment\)]
