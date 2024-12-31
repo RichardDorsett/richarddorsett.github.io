@@ -3,7 +3,7 @@ id: 56
 title: Incidence of children's social care
 excerpt: Using administrative data to estimate the incidence of children's social care
 layout: posts
-tags: [employment-and-welfare,modelling-and-descriptives]
+tags: [health-and-well-being,modelling-and-descriptives]
 permalink: /CiN-CLA-incidence/
 ---
 <div>
