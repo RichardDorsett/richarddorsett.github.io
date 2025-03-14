@@ -19,7 +19,7 @@ Also, all the pages within the following folders
 * _pages/research-areas.
 
 # VS Code
-I use VS code for editing CSV files (can also use Excel), running the Julia code and building the website with Jekyll.  The workflow is as follows:
+I use VS code for editing CSV files (can also use Excel - that is a bit easier for the projects.csv file), running the Julia code and building the website with Jekyll.  The workflow is as follows:
 * update CSV file(s)
 * run mkposts.jl
 * make any manual edits to the Markdown files.  This can be done with a preview using `cmd + k v`.

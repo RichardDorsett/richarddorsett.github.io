@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/IMG_3478.jpg
 permalink: /journals/
 ---
-* Jay, M., Troncoso, P., Bilson, A., Thomson, D., Dorsett, R., Pearson, R., De Stavola, B. and Gilbert, R. (forthcoming) Estimated cumulative incidence of intervention by children's social care services to age 18: a whole of England administrative data cohort study using the child in need census.  International Journal of Population Data Science. [[project page](\CiN-CLA-incidence\)]
+* Jay, M., Troncoso, P., Bilson, A., Thomson, D., Dorsett, R., Pearson, R., De Stavola, B. and Gilbert, R. (2025) Estimated cumulative incidence of intervention by children's social care services to age 18: a whole-of-England administrative data cohort study using the child in need census.  International Journal of Population Data Science 10(1) [[project page](\CiN-CLA-incidence\)]
 * Taylor, S., Blackshaw, E., Dorsett, R., Lawrence, H., Stern, D., Gilbert, L. and Raghoo, N. (2024) [Impact of Family Group Conference Referrals at Pre-Proceedings Stage on Child Outcomes: A Randomised Controlled Trial](https://doi.org/10.1093/bjsw/bcae035) The British Journal of Social Work [[project page](\family-group-conferencing-at-pre-proceedings-stage\)]
 * Bowyer, A., Dorsett, R. and Thomson, D. (2023) [The school-to-work transition for young people who experience custody](https://doi.org/10.1332/175795921X16726787156855) Longitudinal and Life Course Studies, 14(3), 339-357. [[project page](\education-youth-custody-and-employment\)]
 * Dorsett, R. and Thomson, D. (2023) [How Incarcerating Children Affects their Labour Market Outcomes](https://doi.org/10.1017/S0047279423000235) Journal of Social Policy, 1-22 [[project page](\education-youth-custody-and-employment\)]

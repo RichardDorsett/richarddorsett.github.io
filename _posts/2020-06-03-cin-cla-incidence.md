@@ -18,7 +18,7 @@ permalink: /CiN-CLA-incidence/
 </div>
 This project used population administrative data to estimate the cumulative incidence of referrals to children's social care (CSC), social work assessments, being recognised as a children in need (CiN) of intervention or made subject to a child protection plan (CPP) before age 18 in England.
 ## Outputs
-Jay, M., Troncoso, P., Bilson, A., Thomson, D., Dorsett, R., Pearson, R., De Stavola, B. and Gilbert, R. (forthcoming) Estimated cumulative incidence of intervention by children's social care services to age 18: a whole of England administrative data cohort study using the child in need census.  International Journal of Population Data Science.
+Jay, M., Troncoso, P., Bilson, A., Thomson, D., Dorsett, R., Pearson, R., De Stavola, B. and Gilbert, R. (2025) Estimated cumulative incidence of intervention by children's social care services to age 18: a whole-of-England administrative data cohort study using the child in need census.  International Journal of Population Data Science 10(1)
 
 ## Funder
 Unfunded
