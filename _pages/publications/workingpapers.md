@@ -7,6 +7,7 @@ header:
   overlay_image: /assets/images/IMG_3478.jpg
 permalink: /workingpapers/
 ---
+* Miratrix, L., Polskaia, P, Dorsett, R., Zhu, P., Commins, N. and Selby, D. (2025) [Comparing Machine Learning Methods for Estimating Heterogeneous Treatment Effects in Randomized Trials: A Comprehensive Simulation Study](https://edworkingpapers.com/ai25-1276)  [[project page](\machine-learning-and-impact-heterogeneity\)]
 * Bakhshi, H. and Dorsett, R. (2023) [Job Mobility in and Around the Creative Economy](https://escoe-website.s3.amazonaws.com/wp-content/uploads/2023/10/18094956/ESCoE-DP-2023-18.pdf) Economic Statistics Centre of Excellence DP 2023-18 [[project page](\impact-of-covid19-on-self-employment\)]
 * Dorsett, R., Cockett, J. Gould, M. Gray, H. (2023) Can Individual Placement and Support work at scale? [[project page](\evaluation-of-IPS\)]
 * Dorsett, R. and Thomson, D. (2022) [The impact of incarceration on the early labour market outcomes of children in care](/assets/docs/DT.pdf) [[project page](\education-youth-custody-and-employment\)]
