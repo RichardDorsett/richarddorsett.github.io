@@ -22,7 +22,7 @@ Newton, N., Gloster, R., Dorsett, R., Cockett, J., Gooch, B., Benson, A., Crowle
 
 Dorsett, R., Cockett, J. Gould, M. Gray, H., Muir, D., Newton, B. and Gloster, R. (2023) [Health-led Employment Trial Evaluation 12-month outcomes report: Estimates of the impact of IPS over 12 months](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1173022/health-led-employment-trial-evaluation-estimates-of-the-impact-of-ips-over-12-months.pdf) DWP research report no. 1034. 
 
-Dorsett, R., Cockett, J. Gould, M. Gray, H. (2023) Can Individual Placement and Support work at scale?
+Cockett, J., Dorsett, R., Gould, M. and Gray, H. (2026) [Supporting employment among individuals with common health problems: Experimental evidence from England](https://doi.org/10.1016/j.euroecorev.2026.105308) European Economic Review
 
 ## Funder
 Department for Work and Pensions
