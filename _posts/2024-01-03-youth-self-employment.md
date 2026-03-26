@@ -18,7 +18,7 @@ permalink: /youth-self-employment/
 </div>
 For young people facing obstacles to employment, self-employment may offer a viable alernative. This project aims to understand how self-employment features among young people. Through a review of the relevant literature and an analysis of a range of datasets, we provide new evidence on who enters self-employment and when, as well as the pathways they follow to get there. Through consultation with young people and training providers, we attempt to identify a novel package of support that would be both attractive and viable to deliver. The project will culminate in a protocol to evaluate the identified intervention.
 ## Outputs
-Buchmueller, G., Dorsett, R., Oppedisano, V. and Prehar, N. (2026) [Self-employment among young people: prevalence and outcomes - new report for the Youth Futures Foundation](https://youthfuturesfoundation.org/publication/self-employment-among-young-people-prevalence-and-outcomes/) Report for Youth Futures Foundation
+Buchmueller, G., Dorsett, R., Oppedisano, V. and Prashar, N. (2026) [Self-employment among young people: prevalence and outcomes - new report for the Youth Futures Foundation](https://youthfuturesfoundation.org/publication/self-employment-among-young-people-prevalence-and-outcomes/) Report for Youth Futures Foundation
 
 ## Funder
 Youth Futures Foundation
